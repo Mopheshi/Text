@@ -17,7 +17,7 @@ public class Text {
         
         /**
          *I know its bad programming practice to have multiple files to read
-         * from while those files can be read as on file with the right computations.
+         * from while those files can be read as one file with the right computations.
          * I'd be glad if you can share a better approach to handling this amateur
          * programming method of mine ;)
          */
